@@ -1,0 +1,3 @@
+I klassen Spilleliste er det en instansvariabel som lagrer alle sangene i en liste. Nevn minst en, helst to årsaker til at det er naturlig å velge en liste fremfor en ordbok her.
+b. En årsak kan være at det er mer naturlig å splitte elementer i en liste f.eks. for å sjekke om ett eller flere navn finnes i artistnavnet/tittelnavnet til et objekt. 
+c. Dersom man ikke skal bruke en fil for å lage en av spillelisteobjektene, kan det være greit å lage en separat metode som tar imot et filnavn i stedet.

@@ -1,0 +1,3 @@
+1. Innkapsling vil si at man begrenser tilgangen til metoder og variabler, for eksempel med en klasse. Slik forhindrer man at variabler blir endret på ved et uhell.
+2. Grensesnitt er gruppen av metoder som et objekt kan kalle. Man kan implementere en klasse som inneholder et sett metoder uten å lage et objekt som kan kalle på metodene.
+3. Instansmetoder er metodene som kommer under konstruktøren (def __ini__). I motsetning til prosedyrer og funksjoner må de bli kalt ved hjelp av et objekt. Eks "objekt.metode()"
